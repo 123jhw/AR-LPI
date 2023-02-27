@@ -2,12 +2,6 @@
 # ---
 # @Software: PyCharm
 # @File: autocode.py
-# @Author: derek
-# @Institution: --- BeiJing, ---, China
-# @E-mail: derek_yyl@outlook.com
-# @Site: 自编码网络降维
-# @Time: 11/8/22 4:09 下午
-# ---
 import torch
 from torch import nn
 
