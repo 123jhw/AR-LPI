@@ -2,12 +2,6 @@
 # ---
 # @Software: PyCharm
 # @File: tarin.py
-# @Author: derek
-# @Institution: --- BeiJing, ---, China
-# @E-mail: derek_yyl@outlook.com
-# @Site: 
-# @Time: 11/26/22 4:29 下午
-# ---
 import argparse
 import os
 import time
