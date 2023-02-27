@@ -2,12 +2,6 @@
 # ---
 # @Software: PyCharm
 # @File: cnn.py
-# @Author: derek
-# @Institution: --- BeiJing, ---, China
-# @E-mail: derek_yyl@outlook.com
-# @Site: 卷积网络，分类器
-# @Time: 11/9/22 3:20 下午
-# ---
 
 import torch
 from torch import nn
