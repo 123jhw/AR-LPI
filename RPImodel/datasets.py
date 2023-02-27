@@ -2,12 +2,6 @@
 # ---
 # @Software: PyCharm
 # @File: datasets.py
-# @Author: derek
-# @Institution: --- BeiJing, ---, China
-# @E-mail: derek_yyl@outlook.com
-# @Site: 自定义数据集
-# @Time: 11/8/22 10:29 上午
-# ---
 import os
 import pandas as pd
 import torch
